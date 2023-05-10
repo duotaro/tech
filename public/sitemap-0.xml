@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://eurekayamauchi.github.io/tech/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/ネットワーク/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/5G/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/WebAssembly/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/CES2023/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/AI/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/Nvidia Canvas/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/01f32e11-5ce6-45c3-8e33-60fbac5c564b/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/939b6442-3356-41dd-aa80-fcc5335bbf81/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/d937dfeb-35bd-4141-a47e-8db43c4abf15/</loc><lastmod>2023-05-10T01:54:43.747Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/01f32e11-5ce6-45c3-8e33-60fbac5c564b/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/939b6442-3356-41dd-aa80-fcc5335bbf81/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/blog/detail/d937dfeb-35bd-4141-a47e-8db43c4abf15/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/ネットワーク/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/5G/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/WebAssembly/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/CES2023/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/AI/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://eurekayamauchi.github.io/tech/Nvidia Canvas/</loc><lastmod>2023-05-10T02:19:22.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
